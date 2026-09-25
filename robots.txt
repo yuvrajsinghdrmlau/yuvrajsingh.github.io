@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuvrajsinghdrmlau.github.io/yuvrajsingh.github.io/sitemap.xml
